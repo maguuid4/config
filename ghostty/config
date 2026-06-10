@@ -1,10 +1,5 @@
-# see https://ghostty.org/docs/config
-# and https://ghostty.org/docs/config/reference
-
 font-size = 18
-window-padding-x = 5,5
-window-show-tab-bar = always
-macos-titlebar-style = tabs
+window-padding-x = 10,10
 
-background-opacity = 0.8
-background-blur-radius = 50
+macos-titlebar-style = tabs
+window-show-tab-bar = always
